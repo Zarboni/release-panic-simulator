@@ -172,8 +172,8 @@ Every wrong call has a realistic outcome. The goal isn't to punish — it's to s
 
 This project was built as a portfolio piece to demonstrate not just technical skills, but QA *thinking* — the judgment calls, the pattern recognition, and the communication that separate good testers from great ones.
 
-- LinkedIn: [linkedin.com/in/faizcarstens](https://linkedin.com/in/faizcarstens)
-- GitHub: [github.com/FaizCarstens](https://github.com/FaizCarstens)
+- LinkedIn: [linkedin.com/in/faizcarstens](https://www.linkedin.com/in/faiz-carstens-945625175/)
+- GitHub: [github.com/FaizCarstens](https://github.com/Zarboni)
 
 ---
 
