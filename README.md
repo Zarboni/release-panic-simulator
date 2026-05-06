@@ -19,10 +19,10 @@ You investigate the evidence, then make one of four decisions:
 
 | Decision | When to use |
 |---|---|
-| ✓ **Approve Release** | Everything is acceptable — ship it |
-| ⛔ **Block Release** | Too risky — hold it until fixed |
-| 🔧 **Request Hotfix** | Close to ready — targeted fix first |
-| 📞 **Escalate to Dev Lead** | Decision is above your authority or requires more context |
+|  **Approve Release** | Everything is acceptable — ship it |
+|  **Block Release** | Too risky — hold it until fixed |
+|  **Request Hotfix** | Close to ready — targeted fix first |
+|  **Escalate to Dev Lead** | Decision is above your authority or requires more context |
 
 There is always a correct answer. The outcome reveals what *actually* happens — and why.
 
@@ -55,12 +55,12 @@ Each scenario is crafted from patterns that occur on real engineering teams — 
 
 | Score | Rank |
 |---|---|
-| 0–799 | 🐣 Intern Tester |
-| 800–1,599 | 🔍 Junior QA Analyst |
-| 1,600–2,399 | 🧪 QA Analyst |
-| 2,400–3,199 | 🛡️ Senior QA Engineer |
-| 3,200–3,799 | ⚔️ QA Lead |
-| 3,800+ | 👑 QA Principal |
+| 0–799 |  Intern Tester |
+| 800–1,599 |  Junior QA Analyst |
+| 1,600–2,399 |  QA Analyst |
+| 2,400–3,199 |  Senior QA Engineer |
+| 3,200–3,799 |  QA Lead |
+| 3,800+ |  QA Principal |
 
 ---
 
