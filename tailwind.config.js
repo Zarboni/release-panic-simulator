@@ -27,8 +27,8 @@ export default {
         mono: ['"VT323"', '"Courier New"', 'monospace'],
       },
       fontSize: {
-        'xs-mono': ['17px', '1.55'],
-        'sm-mono': ['20px', '1.5'],
+        'xs-mono': ['20px', '1.55'],
+        'sm-mono': ['23px', '1.5'],
         'base-mono': ['22px', '1.5'],
         'lg-mono': ['26px', '1.4'],
         'xl-mono': ['32px', '1.4'],

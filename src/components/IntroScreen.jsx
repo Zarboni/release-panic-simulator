@@ -72,7 +72,7 @@ export default function IntroScreen({ onStart, totalScore, completedScenarios, i
             <div>SIMULATOR</div>
           </div>
           <div className="text-terminal-text-dim text-xs-mono mt-2">
-            A QA Engineer Portfolio Project · Built by Faiz Carstens
+            A QA release sim · Built by Faiz Carstens
           </div>
         </div>
 
@@ -171,18 +171,18 @@ export default function IntroScreen({ onStart, totalScore, completedScenarios, i
                 <div>▶ Open each panel to investigate: test results, bug tracker, CI pipeline, and risk score.</div>
                 <div>▶ Based on what you find, make one of four decisions.</div>
                 <div>▶ Your score depends on: correct decision, speed, and whether you reviewed all evidence.</div>
-                <div>▶ There is always a correct answer. Real QA instincts will help you find it.</div>
+                <div>▶ There is always one correct call. Think like you would on a real release.</div>
               </div>
               <div className="mt-3 grid grid-cols-2 gap-1 text-xs-mono">
-                <div className="text-terminal-green">✓ APPROVE RELEASE — ship it</div>
-                <div className="text-terminal-red">⛔ BLOCK RELEASE — hold it</div>
-                <div className="text-terminal-amber">🔧 REQUEST HOTFIX — fix first</div>
-                <div className="text-terminal-cyan">📞 ESCALATE — get a human</div>
+                <div className="text-terminal-green">APPROVE RELEASE — ship it</div>
+                <div className="text-terminal-red">BLOCK RELEASE — hold it</div>
+                <div className="text-terminal-amber">REQUEST HOTFIX — fix first</div>
+                <div className="text-terminal-cyan">ESCALATE — get a human</div>
               </div>
             </div>
 
             <div className="text-center mt-4 text-terminal-text-dim text-xs-mono">
-              Built with React + Tailwind CSS · github.com/FaizCarstens ·{' '}
+              Built with React + Tailwind CSS · github.com/Zarboni ·{' '}
               <span className="text-terminal-green">v1.0.0</span>
             </div>
           </div>

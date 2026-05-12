@@ -74,7 +74,7 @@ export default function OutcomeScreen({
         {/* Story */}
         {consequence && (
           <div className="border border-terminal-border panel-bg p-4 mb-4">
-            <div className="font-pixel text-terminal-text-dim text-xs mb-3">OUTCOME NARRATIVE</div>
+            <div className="font-pixel text-terminal-text-dim text-xs mb-3">WHAT HAPPENED</div>
             <div className="space-y-1">
               {consequence.story.map((line, i) => (
                 <div

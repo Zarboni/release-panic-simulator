@@ -41,7 +41,7 @@ export default function DecisionPanel({ onDecide, investigatedCount }) {
     return (
       <div className="panel-bg border border-terminal-border p-4 animate-slide-up">
         <div className="text-center mb-4">
-          <div className="font-pixel text-terminal-amber text-xs mb-2">⚠ CONFIRM DECISION</div>
+          <div className="font-pixel text-terminal-amber text-xs mb-2">⚠ CONFIRM YOUR CALL</div>
           <div className={`text-xl-mono ${style.base.split(' ')[1]} font-mono`}>
             {meta.icon} {meta.label}
           </div>
@@ -73,7 +73,7 @@ export default function DecisionPanel({ onDecide, investigatedCount }) {
   return (
     <div className="panel-bg border border-terminal-border p-4">
       <div className="flex items-center gap-3 mb-3">
-        <span className="font-pixel text-terminal-green text-xs">MAKE YOUR DECISION</span>
+        <span className="font-pixel text-terminal-green text-xs">YOUR CALL</span>
         {!allInvestigated && (
           <span className="text-terminal-amber text-xs-mono ml-auto">
             ⚠ {investigatedCount}/4 panels reviewed
